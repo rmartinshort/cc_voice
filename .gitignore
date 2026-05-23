@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Status for Claude Code
+STATUS.md 
+STATUS_ARCHIVE.md
+*prd.md
